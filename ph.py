@@ -1,2 +1,2 @@
-print("Hello, VEDA!")
-print("Welcome to jenkins post-build feature ")
+prit("Hello, VEDA!")
+
