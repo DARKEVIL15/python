@@ -1,2 +1,2 @@
-prit("Hello, VEDA!")
+print("Hello, VEDA!")
 
