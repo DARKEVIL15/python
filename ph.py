@@ -1,3 +1,3 @@
 print("Hello, VEDA!")
-print("welcome to jenkins")
+p("welcome to jenkins")
 
